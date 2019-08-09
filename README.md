@@ -5,6 +5,7 @@ Capitalize on your Capital One Savings with a budget vacation.
 # The stack: 
 
 Frontend: Angular 7
+
 Backend: Node + Express
 
 # Link to our presentation: 
